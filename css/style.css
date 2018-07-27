@@ -1,0 +1,56 @@
+.header1 .jumbotron{
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.5)), url('http://www.flexasoft.com/wp-content/uploads/2015/03/photodune-3414091-group-of-business-people-working-at-office-m-1.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+	text-align: center;
+}
+.header1 h1{
+	color: #76FF03;
+}
+.header1 h4{
+	color: #FFF;
+}
+#icon-people{
+	color: #9CCC65;
+}
+#icon-coffee{
+	color: #42A5F5;
+}
+#icon-chat{
+	color: #AB47BC;
+}
+.jumbotron{
+	background: #FFF;
+}
+.col{
+	text-align: center;
+}
+i{
+	padding-bottom: 7px;
+}
+.header3 .jumbotron{
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.5)), url('http://apollo-uploads-lan.s3.amazonaws.com/1431486345/alen-guanajuato.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+	text-align: left;
+	color: #FFF;
+}
+.header3 .jumbotron div a{
+	margin-bottom: -55px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.red-icon{
+	color: #f44336;
+}
+.fb-icon{
+	color: #1E88E5;
+}
+.tw-icon{
+	color: #29B6F6;
+}
+.white-icon{
+	color: #FFF;
+}
